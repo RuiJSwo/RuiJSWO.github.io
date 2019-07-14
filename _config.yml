@@ -1,10 +1,10 @@
 # Site settings
 title: Rui Blog
-SEOTitle: 嘉瑞的博客 | BY Blog
+SEOTitle: 嘉瑞的博客 | Rui Blog
 header-img: img/post-bg-desk.jpg
 email: 1059428697@qq.com
-description: "Every failure is leading towards success."
-keyword: "JR，Learning，Record，"
+description: "这是我的个人小天地"
+keyword: "Learning，Record，"
 url: "http://RuiJSwo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
